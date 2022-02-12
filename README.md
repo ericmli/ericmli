@@ -6,3 +6,9 @@
 
   
 </div>
+
+
+  
+    ![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
+  
+
