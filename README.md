@@ -16,8 +16,9 @@
 <div align="center">
   <a href="https://github.com/ericmli">
       
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmli&layout=compact&langs_count=7&theme=dracula"/>
-     ![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmli&layout=compact&langs_count=7&theme=dracula"/>
+      
+![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
    </a>
 </div>
 
@@ -25,9 +26,9 @@
 
 <div align="center">
     
-    <img align="right" width="250px" height="250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <img align="right" width="250px" height="250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-    <a href="https://www.linkedin.com/in/ericmli/"><img heigth="200px" width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+  <a href="https://www.linkedin.com/in/ericmli/"><img heigth="200px" width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
     
 </div>
 
