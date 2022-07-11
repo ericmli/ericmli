@@ -2,9 +2,11 @@
     
 ### Aqui estão um pouco dos projetos já feitos e as anotações de todos os cursos no qual eu já realizei(Para futuramente relembrar e utilizar).
 
-<div> 
+<div font_size="1.4rem"> 
     Estudando React.js ! <img heigth="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
+
+<img href="https://www.linkedin.com/in/ericmli/" heigth="20px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 
 ##
 
