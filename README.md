@@ -12,8 +12,8 @@
 
 ##
 
-<img align="right" heigth="80px" width="80px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" heigth="50px" width="50px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<a alignt="center"![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)</a>
+![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
   
 
