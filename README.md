@@ -3,7 +3,7 @@
 ### Aqui estão um pouco dos projetos já feitos e as anotações de todos os cursos no qual eu já realizei(Para futuramente relembrar e utilizar).
 
 <div> 
-    Estudando React.js ! <img heigth="10px" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    Estudando React.js ! <img heigth="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
