@@ -8,6 +8,8 @@
 
 <a href="https://www.linkedin.com/in/ericmli/"><img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 
+<img heigth="100px" width="100px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 ##
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmli&layout=compact&langs_count=7&theme=synthwave"/>
