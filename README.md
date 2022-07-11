@@ -5,15 +5,19 @@
 ##
 
 <div font_size="1.4rem"> 
-    Estudando React.js ! <img heigth="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <br>
+    > Estudando React.js ! <img heigth="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-
-<a href="https://www.linkedin.com/in/ericmli/"><img heigth="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 
 ##
 
-<img align="right" heigth="50px" width="50px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-
 ![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
-  
+
+##
+
+<div>
+<img align="right" width="250px" height="250px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+
+<a href="https://www.linkedin.com/in/ericmli/"><img heigth="200px" width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+</div>
 
