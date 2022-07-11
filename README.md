@@ -4,9 +4,9 @@
 
 ##
 
-<div font_size="1.4rem"> 
+<div> 
     <br>
-    > Estudando React.js ! 👨‍💻 <img heigth="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    > Estudando React.js ! 👨‍💻 <img align="right" heigth="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
