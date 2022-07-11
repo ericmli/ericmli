@@ -16,8 +16,6 @@
 
 <img heigth="100px" width="100px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-##
-
 ![Snake animation](https://github.com/ericmli/ericmli/blob/output/github-contribution-grid-snake.svg)
   
 
