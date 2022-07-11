@@ -6,7 +6,7 @@
     Estudando React.js ! <img heigth="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-<a href="https://www.linkedin.com/in/ericmli/"><img heigth="20px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+<a href="https://www.linkedin.com/in/ericmli/"><img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 
 ##
 
