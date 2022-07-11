@@ -1,12 +1,12 @@
-### Olá 👋
+### Olá 😀
     
-### Aqui estão um pouco dos projetos já feitos e as anotações de todos os cursos no qual eu já realizei(Para futuramente relembrar e utilizar).
+### Aqui estão um pouco dos projetos já feitos e as anotações de todos os cursos no qual eu já realizei(Para futuramente relembrar e utilizar). 👁
 
 ##
 
 <div font_size="1.4rem"> 
     <br>
-    > Estudando React.js ! <img heigth="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    > Estudando React.js ! 👨‍💻 <img heigth="16px" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
