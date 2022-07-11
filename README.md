@@ -2,7 +2,9 @@
     
 ### Aqui estão um pouco dos projetos já feitos e as anotações de todos os cursos no qual eu já realizei(Para futuramente relembrar e utilizar).
 
-### <strong>Estudando React.js !</strong>
+### <div>   Estudando React.js !
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+    </div>
 
 <div>
   
