@@ -6,7 +6,7 @@
 
 <div> 
     <br>
-    > Estudando React Native ! 👨‍💻 <img align="right" heigth="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    > Developer React Native ! 👨‍💻 <img align="right" heigth="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
