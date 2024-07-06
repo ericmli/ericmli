@@ -1,4 +1,4 @@
-### <h1 style="color: #FFFFFF60">Hi, welcome</h1>
+### <h1 color: #FFFFFF60>Hi, welcome</h1>
 
 ##
 <div> 
@@ -13,11 +13,8 @@
 ##
 
 <div align="center">
-    
-  <img align="right" width="150px" height="150px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-
-  <img heigth="200px" width="400px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-    
+  <img heigth="100px" width="100px" left:0 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  <img align="right" width="200px" height="400px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
 ##
