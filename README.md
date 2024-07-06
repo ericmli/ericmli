@@ -11,10 +11,9 @@
 ##
 
 ##
-
-<div align="center">
   <img heigth="100px" width="100px" left:0 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-  <img align="right" width="200px" height="400px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<div align="center">
+  <img align="right" width="400px" height="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
 ##
