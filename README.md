@@ -1,7 +1,6 @@
 ### Welcome 😁!
 
 ##
-
 <div> 
     <br>
     <h1> Hey there! I'm a front-end developer specializing in React with a strong focus on TypeScript. I'm passionate about crafting engaging user experiences and leveraging the power of modern web technologies. Connect with me on LinkedIn to explore more about my journey!👨‍💻</h1>
@@ -20,3 +19,4 @@
     
 </div>
 
+##
