@@ -1,4 +1,4 @@
-### <h1 color:"#FFFFFF60">Hi, welcome</h1>
+### <h1>Hi, welcome</h1>
 
 ##
 <div> 
